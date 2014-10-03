@@ -1,1 +1,2 @@
-Trabajo en equipo con git 
+Trabajo en equipo con git
+La diferencia entre compilación es interpretación es que la compilación es el proceso de traducir un programa en codigo fuente a programa en codigo objeto y la interpretacion toma cada linea de codigo, la analiza y ejecuta al mismo tiempo
